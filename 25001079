@@ -3,8 +3,8 @@
     <img src="https://via.placeholder.com/100" alt="Profile Image">
   </div>
   <div class="student-info">
-    <h2 class="student-name">John Doe</h2>
-    <p class="student-stream">Science Stream</p>
+    <h2 class="student-name">Izzath Raji</h2>
+    <p class="student-stream">Physical Science</p>
     <p class="student-bio">
       Enthusiastic learner passionate about robotics and AI. Loves solving challenging problems and participating in science fairs.
     </p>
